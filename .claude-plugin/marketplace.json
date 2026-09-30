@@ -1,0 +1,13 @@
+{
+  "name": "cc-canary-marketplace",
+  "description": "Throwaway canary marketplace for testing skill delivery to Claude Code and Cowork. Delete after Phase 1.",
+  "owner": { "name": "bigsidd" },
+  "plugins": [
+    {
+      "name": "cc-canary",
+      "source": "./plugins/cc-canary",
+      "description": "Canary demand-gate skill. Release token A7.",
+      "version": "0.1.0"
+    }
+  ]
+}
