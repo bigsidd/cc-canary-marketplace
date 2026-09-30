@@ -1,6 +1,6 @@
 {
   "name": "cc-canary",
-  "description": "Canary demand-gate skill for delivery and routing tests. Release token A7.",
-  "version": "0.1.0",
+  "description": "Canary demand-gate skill for delivery and routing tests. Release token B3.",
+  "version": "0.1.1",
   "author": { "name": "bigsidd" }
 }

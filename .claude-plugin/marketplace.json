@@ -6,8 +6,8 @@
     {
       "name": "cc-canary",
       "source": "./plugins/cc-canary",
-      "description": "Canary demand-gate skill. Release token A7.",
-      "version": "0.1.0"
+      "description": "Canary demand-gate skill. Release token B3.",
+      "version": "0.1.1"
     }
   ]
 }
